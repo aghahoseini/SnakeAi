@@ -1,6 +1,7 @@
 # Snake AI with BFS Pathfinding
 
 ![Game Preview](demo.gif)
+<img src="demo.gif" width="200" />
 
 
 This project is an implementation of a snake game where the snake autonomously finds its path using the BFS algorithm along with additional logic. The snake aims to eat food while avoiding collisions. The game is developed in Go using the Ebiten game library.
